@@ -1,0 +1,42 @@
+{
+    "welcome_text": {
+        "header": {
+            "border": "═══════════════════════════════════════════════",
+            "title": "欢迎使用 Cursor Pro 自动续费工具",
+            "color": "YELLOW"
+        },
+        "instructions": {
+            "title": "使用说明",
+            "items": [
+                {
+                    "text": "按 Ctrl+C 随时退出程序",
+                    "highlight": "Ctrl+C"
+                },
+                {
+                    "text": "本项目为 GitHub 开源项目",
+                    "highlight": "GitHub"
+                },
+                {
+                    "text": "仅供学习交流使用",
+                    "highlight": null
+                },
+                {
+                    "text": "公众号 六趣",
+                    "highlight": "六趣"
+                },
+                {
+                    "text": "QQ群 待添加",
+                    "highlight": "待添加"
+                }
+            ]
+        },
+        "footer": {
+            "text": "按回车键开始完整注册流程...",
+            "color": "YELLOW",
+            "prefix": "✨"
+        }
+    },
+    "version": "1.0.0",
+    "update_time": "2024-03-20",
+    "is_force_update": false
+}
